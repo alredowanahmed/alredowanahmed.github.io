@@ -5,8 +5,8 @@
     "birth_date": "2006-01-06",
     "age": 18,
     "nationality": "Bangladeshi",
-    "status": "Student",
-    "profile_description": "A Good Man",
+    "status": "Student and CEO at Designpick LLC" ,
+    "profile_description": "A Good Vibe-coder",
     "location": {
       "address": "Madanpur, Bandar, Narayangonj, Dhaka, Bangladesh",
       "city": "Dhaka",
@@ -16,9 +16,9 @@
       "phone": "+8801970402199",
       "email": "fahimdj071@gmail.com",
       "social_media": {
-        "facebook": "https://www.facebook.com/AR.ERROR.404",
-        "github": "https://al-redowan.github.io",
-        "instagram": "https://www.instagram.com/sinister.face0"
+        "facebook": "https://www.facebook.com/alredowanahmed",
+        "github": "https://alredowanahmed.github.io",
+        "instagram": "https://www.instagram.com/alredowanahmed"
       }
     }
   },
@@ -78,14 +78,18 @@
         "React",
         "Next.js",
         "Node.js",
-        "Express.js"
+        "Express.js",
+        "Vercel",
+        
       ]
     },
     {
       "category": "Databases",
       "skills": [
         "MongoDB",
-        "MySQL"
+        "MySQL",
+        "Supabase",
+        "Firebase Studio",
       ]
     },
     {
@@ -93,7 +97,13 @@
       "skills": [
         "Git",
         "WordPress",
-        "Figma"
+        "shopify",
+        "Figma",
+        "Photoshop",
+        "Cursor",
+        "Google AI Studio",
+        "Claude Code",
+        "Lovable"
       ]
     },
     {
@@ -125,6 +135,7 @@
     }
   ],
   "interests_and_hobbies": [
+    "Vibe Coding",
     "Music",
     "Movies",
     "Hacking",
@@ -145,7 +156,7 @@
         "Tailwind CSS",
         "Shadcn-ui"
       ],
-      "github_url": "https://al-redowan.github.io",
+      "github_url": "https://alredowanahmed.github.io",
       "status": "Completed"
     }
   ],
@@ -162,9 +173,9 @@
       "year": "2023"
     }
   ],
-  "career_objective": "Passionate student and aspiring developer with interests in Machine Learning, AI, Robotics, and programming. Currently building skills in full-stack development while maintaining strong academic performance.",
+  "career_objective": "Passionate student and aspiring developer with interests in Cyber Security, AI, Vibe Coding, Robotics, and programming. Currently building skills in full-stack development while maintaining strong academic performance.",
   "github_stats": {
-    "username": "al-redowan",
-    "profile_url": "https://github.com/al-redowan"
+    "username": "alredowanahmed",
+    "profile_url": "https://github.com/alredowanahmed"
   }
 }
